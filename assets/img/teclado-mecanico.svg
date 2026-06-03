@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-label="Teclado Mecánico RGB Pro">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#21113a"/><stop offset="1" stop-color="#8f5cff"/></linearGradient><filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#172033" flood-opacity=".18"/></filter></defs>
+  <rect width="420" height="300" rx="34" fill="#f4f7fb"/>
+  <circle cx="334" cy="60" r="82" fill="url(#g)" opacity=".16"/>
+  <circle cx="82" cy="242" r="76" fill="url(#g)" opacity=".10"/>
+  <rect x="112" y="56" width="196" height="172" rx="38" fill="url(#g)" filter="url(#s)"/>
+  <rect x="135" y="80" width="150" height="126" rx="28" fill="rgba(255,255,255,.14)"/>
+  <text x="210" y="164" text-anchor="middle" font-size="76" font-family="Arial, sans-serif">⌨️</text>
+  <text x="210" y="262" text-anchor="middle" font-size="20" font-weight="700" fill="#253044" font-family="Arial, sans-serif">Teclado Mecánico RGB Pro</text>
+</svg>
